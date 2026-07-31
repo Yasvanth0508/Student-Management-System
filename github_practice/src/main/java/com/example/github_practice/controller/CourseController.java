@@ -1,7 +1,7 @@
-package com.example.githubpractice.controller;
+package com.example.github_practice.controller;
 
-import com.example.githubpractice.entity.Course;
-import com.example.githubpractice.service.CourseService;
+import com.example.github_practice.entity.Course;
+import com.example.github_practice.service.CourseService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
