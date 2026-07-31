@@ -1,4 +1,4 @@
-package com.example.githubpractice.entity;
+package com.example.github_practice.entity;
 
 import jakarta.persistence.*;
 
