@@ -1,7 +1,7 @@
-package com.example.githubpractice.service;
+package com.example.github_practice.service;
 
-import com.example.githubpractice.entity.Course;
-import com.example.githubpractice.repository.CourseRepository;
+import com.example.github_practice.entity.Course;
+import com.example.github_practice.repository.CourseRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
